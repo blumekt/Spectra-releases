@@ -1,8 +1,8 @@
-version: 1.4.0
+version: 1.5.0
 files:
-  - url: Spectra_Setup_1.4.0.exe
-    sha512: P1BL9P6O5pgcjpcLwXv1p0PMFw8eCImtiOSAfnIHDHtC4TMKd1oalVUXZ1IATHDRKdbgEEVLra8CACYXMObCeg==
-    size: 20097239
-path: Spectra_Setup_1.4.0.exe
-sha512: P1BL9P6O5pgcjpcLwXv1p0PMFw8eCImtiOSAfnIHDHtC4TMKd1oalVUXZ1IATHDRKdbgEEVLra8CACYXMObCeg==
-releaseDate: '2026-01-20T16:39:38.722778+00:00'
+  - url: Spectra_Setup_1.5.0.exe
+    sha512: kx6tyZCPicmZdQKManm6XJoAK9jxPJMCREMMupcrWZokhT3pF8mtz4isNGnyxS1W4S9ssYI4C9WsBOvFJFcYtg==
+    size: 20097898
+path: Spectra_Setup_1.5.0.exe
+sha512: kx6tyZCPicmZdQKManm6XJoAK9jxPJMCREMMupcrWZokhT3pF8mtz4isNGnyxS1W4S9ssYI4C9WsBOvFJFcYtg==
+releaseDate: '2026-01-20T16:46:47.247782+00:00'
