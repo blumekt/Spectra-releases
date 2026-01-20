@@ -1,8 +1,8 @@
-version: 1.0.7-beta.1
+version: 1.0.7-beta.2
 files:
-  - url: Spectra_Setup_1.0.7-beta.1.exe
-    sha512: q3BJmkpUfNJxhtiT80tNEiqAjozUbn60LTmRBXrOkuOM06IPmDnxdxn1O1XuqrCI1PH2Vz4z8Q/c29IgLPTcmQ==
-    size: 19861695
-path: Spectra_Setup_1.0.7-beta.1.exe
-sha512: q3BJmkpUfNJxhtiT80tNEiqAjozUbn60LTmRBXrOkuOM06IPmDnxdxn1O1XuqrCI1PH2Vz4z8Q/c29IgLPTcmQ==
-releaseDate: '2026-01-20T12:06:02.748058+00:00'
+  - url: Spectra_Setup_1.0.7-beta.2.exe
+    sha512: OHNHgK9ny69XUhby6XMh0tM1/ofpRASDLL/zlVtBCUAyy/F2gGXjksZIJKbasFVnCGz/mGH5dMrkQz559rya9Q==
+    size: 19859771
+path: Spectra_Setup_1.0.7-beta.2.exe
+sha512: OHNHgK9ny69XUhby6XMh0tM1/ofpRASDLL/zlVtBCUAyy/F2gGXjksZIJKbasFVnCGz/mGH5dMrkQz559rya9Q==
+releaseDate: '2026-01-20T12:57:47.694118+00:00'
